@@ -1,0 +1,4 @@
+-Overview of Assembly:
+http://flatassembler.net/docs.php?article=manual
+-Lệnh di chuyển dữ liệu: mov
++ 
